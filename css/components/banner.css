@@ -1,0 +1,17 @@
+
+.banner {
+	background-image: url(../../images/bankingpicture.jpg);
+	color: black;
+	padding: 0 px 0px;
+	height: 500px;
+	background-size: cover;
+	background-position: center;
+	margin: 0px auto;
+
+
+}
+
+.banner h2{
+	margin-bottom: 40px;
+}
+
